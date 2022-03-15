@@ -1,3 +1,4 @@
+Библиотеки для работы с данными
 # Подземелье было выкопано ящеро-подобными монстрами рядом с аномальной рекой, постоянно выходящей из берегов.
 # Из-за этого подземелье регулярно затапливается, монстры выживают, но не герои, рискнувшие спуститься к ним в поисках
 # приключений.
@@ -90,6 +91,7 @@
 #
 # и так далее...
 ********************************************************************************************
+Libraries for working with data.
   # The dungeon was dug by lizard-like monsters next to an anomalous river that constantly overflows its banks.
 # Because of this, the dungeon is regularly flooded, the monsters survive, but not the heroes who dared to go down to them in search of
 # adventures.
